@@ -1,0 +1,15 @@
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\bin\Debug\net6.0\I1P622_Michaux.exe
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\bin\Debug\net6.0\I1P622_Michaux.deps.json
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\bin\Debug\net6.0\I1P622_Michaux.runtimeconfig.json
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\bin\Debug\net6.0\I1P622_Michaux.dll
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\bin\Debug\net6.0\I1P622_Michaux.pdb
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.AssemblyInfo.cs
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.dll
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\refint\I1P622_Michaux.dll
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.pdb
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\I1P622_Michaux.genruntimeconfig.cache
+C:\Users\Doria\Desktop\I1P622_Michaux\I1P622_Michaux\obj\Debug\net6.0\ref\I1P622_Michaux.dll
